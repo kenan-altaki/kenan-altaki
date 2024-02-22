@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🚀 "Coding, coffee, and creativity - fueling my journey through the digital universe!" 🌟
 
 <!--
 **kenan-altaki/kenan-altaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
