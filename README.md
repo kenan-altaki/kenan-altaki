@@ -1,6 +1,11 @@
-### 🚀 "Coding, coffee, and creativity - fueling my journey through the digital universe!" 🌟
+### Riding the caffeine wave ☕️, planting seeds of creativity 🌱, and hitting code targets like a pro marksman 🎯. Welcome to my repository, where the magic happens! ✨🚀
 
 <!--
+## Old statuses:
+
+- 🚀 "Coding, coffee, and creativity - fueling my journey through the digital universe!" 🌟
+
+
 **kenan-altaki/kenan-altaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
